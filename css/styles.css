@@ -52,4 +52,15 @@ body {
   padding: 0.25rem;
 }
 
-/*# sourceMappingURL=styles.css.map */
+table th {
+  width: 100px;
+  background: #ccc;
+  padding: 5px;
+}
+table td {
+  background: #eee;
+  padding: 5px;
+}
+table td img {
+  width: 50px;
+}/*# sourceMappingURL=styles.css.map */
